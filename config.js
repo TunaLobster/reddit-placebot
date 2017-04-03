@@ -20,10 +20,10 @@ module.exports = {
   // The PLACEBOT mark in the world <3
   // targetStartX: 981,
   // targetStartY: 784,
-  targetStartX: 786,
-  targetStartY: 157,
+  targetStartX: 788,
+  targetStartY: 152,
 
-  drawMode: 'RANDOM', // LEFTTOP | RANDOM
+  drawMode: 'LEFTTOP', // LEFTTOP | RANDOM
 
   // Testing configuration things
 
